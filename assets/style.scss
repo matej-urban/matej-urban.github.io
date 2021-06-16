@@ -2,10 +2,10 @@
 ---
 
 .home-content {
+    font-size: 19px;
     background-image: url("/assets/images/trinity-college.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-size: 18px;
 }
 
 body {
@@ -19,8 +19,15 @@ hr {
     background-color:#000;
 }
 
-.page-content {
+.text {
     background-color: #defc;
+    background-blend-mode: overlay;
+    border-style: solid;
+    padding: 10px;
+}
+
+.page-content {
+    background-color: #def3;
     background-blend-mode: overlay;
 }
 
