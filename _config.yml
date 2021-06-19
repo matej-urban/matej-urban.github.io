@@ -21,8 +21,8 @@
 title: Matej Urban
 email: matej.urban.cam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Volám sa Matej Urban a tento rok som bol prijatý na Cambridge, ale na to aby som
-  nastúpil mi chýbajú peniaze. Budem veľmi vďačný ak ma podporíte.
+  Volám sa Matej Urban a tento rok som bol prijatý na Cambridge, ale na to, aby som
+  nastúpil, mi chýbajú peniaze. Budem veľmi vďačný, ak ma podporíte.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: matej.urban42
