@@ -2,10 +2,10 @@
 layout: page
 title: Niečo o mne
 ---
-**Matematika** ma vždy zaujímala, a preto som sa už od základnej školy zúčastňoval rôznych matematických súťaží. V piatom ročníku som sa dozvedel o matematických korešpondenčných seminároch a dostal som sa na moje prvé matematické sústredenie, kde som spoznal ľudí s rovnakým záujmom o matematiku ako ja. Odvtedy sa takýchto sústredení zúčastňujem pravidelne. Naučil som sa tam veľa zaujímavých vecí z matematiky, nad rámec toho čo sa učí v škole a motivovalo ma to ďalej sa uberať týmto smerom. Pravidelne sa zúčastňujem Matematickej olympiády a dvakrát som úspešne reprezentoval Slovensko na Medzinárodnej matematickej olympiáde (IMO).
+**Matematika** ma vždy zaujímala, a preto som sa už od základnej školy zúčastňoval rôznych matematických súťaží. V piatom ročníku som sa dozvedel o matematických korešpondenčných seminároch a dostal som sa na moje prvé matematické sústredenie, kde som spoznal ľudí s rovnakým záujmom o matematiku ako ja. Odvtedy sa takýchto sústredení zúčastňujem pravidelne. Naučil som sa tam veľa zaujímavých vecí z matematiky, nad rámec toho čo sa učí v škole a motivovalo ma to ďalej sa uberať týmto smerom. Pravidelne sa zúčastňujem Matematickej olympiády a už dvakrát som úspešne reprezentoval Slovensko na Medzinárodnej matematickej olympiáde (IMO).
 
 Popri matematike sa venujem **programovaniu**. Ako dieťa ma veľmi zaujala robotika a začal som sa jej venovať, keď som na Vianoce dostal Lego robotickú stavebnicu. Na gymnáziu som potom začal chodiť na robotický krúžok, kde sme sa hlavne venovali súťaži First Lego League (FLL). Pri tom som sa naučil základy programovania.  
-Neskôr som sa začal venovať <u>súťažnému programovaniu</u>*. Začal som riešiť Korešpondenčný seminár z programovania a zúčastňovať sa rôznych súťaži, vrátane Olympiády v informatike. Postupne som sa zlepšoval a vypracoval som sa až na Medzinárodnú olympiádu v informatike (IOI).
+Neskôr som sa začal venovať <u>súťažnému programovaniu</u>*. Začal som riešiť Korešpondenčný seminár z programovania a zúčastňovať sa rôznych súťaží, vrátane Olympiády v informatike. Postupne som sa zlepšoval a vypracoval som sa až na Medzinárodnú olympiádu v informatike (IOI).
 
 <span class="note">**V týchto súťažiach je cieľom navrhnúť a naprogramovať čo najefektívnejší algoritmus, ktorý rieši zadané úlohy. Priamočiare riešenie (napríklad hrubou silou) tu väčšinou získa iba malý počet bodov a na plný počet bodov treba niečo komplikovanejšie. Často sa využijú nejaké známe algoritmy a občas aj niečo z matematiky.*</span>  
 
