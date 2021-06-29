@@ -21,7 +21,7 @@ Matematika:
 * Matematická olympiáda (celoštátne kolo) – dvakrát 1. miesto ([2020](https://skmo.sk/poradia.php?jazyk=sk&rocnik=69&sutaz=_celostatne_kolo), [2021](https://skmo.sk/poradia.php?jazyk=sk&rocnik=70&sutaz=_celostatne_kolo))
 
 Programovanie:
-* International Olympiad in Informatics - <b style="color: silver">silver medal</b> ([2020](https://stats.ioinformatics.org/people/7254))
+* International Olympiad in Informatics - <b style="color: silver">silver medal</b> ([2020](https://stats.ioinformatics.org/people/7254)), <b style="color: goldenrod">gold medal</b> ([2021](https://stats.ioinformatics.org/people/7254))
 * Central European Olympiad in Informatics - <b style="color: #CD7F32">bronze medal</b> ([2020](http://ceoi2020.inf.elte.hu/contest/results/))
 * Olympiáda v informatika (celoštátne kolo) – dvakrát 1. miesto ([2019](http://oi.sk/archiv/2018/sl-2018-3-vys.pdf), [2020](http://oi.sk/archiv/2019/sl-2019-3-vys.pdf)) a 3. miesto ([2021](https://docs.google.com/spreadsheets/d/1ARTdG8cMTo3eITN5OHYKOkKKuq856wToehwJBfcnpEc/edit#gid=1569408365))
 * Zenit (celoštátne kolo) – dvakrát 1. miesto ([2019](https://zenit.ksp.sk/results/zenit18ck/all/all/B), [2020](https://zenit.ksp.sk/results/zenit19ck/all/all/A))
