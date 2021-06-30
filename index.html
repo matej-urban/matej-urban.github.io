@@ -11,7 +11,7 @@ title: Home
 <p class="note"><b>Viac si o mne môžete prečítať <a href={{ 'o-mne' | relative_url }}>tu</a></b></p>
 <hr/>
 <p>Hodnota školného na jeden rok je pre mňa, ako medzinárodného študenta <b>£43,125 (50&nbsp;240€)</b>. Štúdium trvá 3 roky a teda celková suma je <b>£129,375 (150&nbsp;730€)</b>. Škola vyžaduje, aby som zdokumentoval, že mám dostatok financií na <b>všetky tri roky</b> do <b>1.&nbsp;augusta</b>.</p>
-<p>Uchádzal som sa o štipendium od Trinity College, ale to sa mi bohužiaľ nepodarilo získať. Napriek tomu sa mi už nejaké peniaze podarilo zohnať (za podporu ďakujem pánovi Oravkinovi a pánovi Smolárovi). Suma, ktorá mi ešte chýba, je dokopy približne <b style="font-size: larger;">30&nbsp;000€</b>.</p>
+<p>Uchádzal som sa o štipendium od Trinity College, ale to sa mi bohužiaľ nepodarilo získať. Napriek tomu sa mi už podarilo zohnať <b>{{ site.received_money | plus: site.account_money | money }}€</b> (za podporu ďakujem pánovi Oravkinovi, pánovi Smolárovi a tiež všetkým, ktorí mi už prispeli na transparentný účet). Suma, ktorá mi ešte chýba, je dokopy <b style="font-size: larger;">{{ site.total_cost | minus: site.received_money | minus: site.account_money | money }}€</b>.</p>
 <p>Podporiť ma môžete príspevkom na transparentný účet <a href="https://ib.fio.sk/ib/transparent?a=2901984317">SK37&nbsp;8330&nbsp;0000&nbsp;0029&nbsp;0198&nbsp;4317</a>.</p>
 <p><b>Veľmi ďakujem za vašu podporu!</b></p>
     </div>

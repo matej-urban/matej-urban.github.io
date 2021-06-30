@@ -27,6 +27,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: matej.urban42
 
+total_cost: 150730
+received_money: 122471
+account_money: 4073
+
 # Build settings
 theme: minima
 plugins:
